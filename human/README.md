@@ -1,4 +1,4 @@
-# Human Reference for ITP
+# Human Reference for Ribo-ITP
 
 This reference is based on our Appris human refrence version 2. We have made modifications on the transcriptome and filter.
 
