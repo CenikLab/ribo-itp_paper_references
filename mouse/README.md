@@ -1,10 +1,9 @@
-# mouse_itp_reference
-RiboFlow refrence used for the ITP project on mice cell development
+# Mouse Transcriptome Reference
+RiboFlow reference used for the Ribo-ITP project on mice cell development
 
 This refrecne is compatible with our mouse reference v2.
-For now, we are only changing the filter files.
 
-## Update 1
+## Modification 1
 
 We have added the following noncoding RNA to the filter.
 
@@ -13,9 +12,9 @@ We have added the following noncoding RNA to the filter.
 GTCTACAGCCATACCACCCTGAACACGCCCGATCTTGTCTGATCTCTGGAGCTAAGCAGGGTCGGGCCTGGTTAGTACTTGGATGGGAGACCGCCTGGGAATACCGGGTGCTGTAGGCT
 ```
 
-## Update 2:
+## Modification 2:
 We have added the variant masked mouse transcriptome.
 
 
-## Update 3:
+## Modification 3:
 We removed the transcript Mettl26-201.
