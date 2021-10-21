@@ -1,7 +1,7 @@
 # Mouse Transcriptome Reference
 RiboFlow reference used for the Ribo-ITP project on mice cell development
 
-This refrecne is compatible with our mouse reference v2.
+This reference is compatible with our mouse reference v2.
 
 ## Modification 1
 
